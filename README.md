@@ -1,4 +1,4 @@
-# TRUENORTH React-Native Challenge ⚡️
+# TRUENORTH React-Native Challeng ⚡️
 
 Join TRUENORTH and build the next fintech app.
 
