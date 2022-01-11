@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`todo renders 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/home-illustration.png",
+      }
+    }
+    style={
+      Object {
+        "height": 194,
+        "marginBottom": 12,
+        "width": 206,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontSize": 24,
+        "fontWeight": "bold",
+        "marginVertical": 12,
+      }
+    }
+  >
+    Howdy partner!
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "paddingHorizontal": 30,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 14,
+          "fontWeight": "400",
+          "marginTop": 12,
+          "textAlign": "center",
+        }
+      }
+    >
+      This is your assignment.
+Follow the instructions on the Readme file.
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 14,
+          "fontWeight": "400",
+          "marginTop": 12,
+          "textAlign": "center",
+        }
+      }
+    >
+      Don’t worry, it’s easy! You should have the app looking smooth in no time.
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "backgroundColor": "#1FC4DB",
+        "borderRadius": 6,
+        "marginBottom": 150,
+        "marginHorizontal": 35,
+        "marginTop": 44,
+        "opacity": 1,
+        "paddingVertical": 12,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontSize": 16,
+          "fontWeight": "500",
+        }
+      }
+    >
+      Get Started
+    </Text>
+  </View>
+</View>
+`;
